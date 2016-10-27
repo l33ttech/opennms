@@ -330,10 +330,12 @@
       <groupId>org.opennms.features</groupId>
       <artifactId>opennms-integration-otrs-31</artifactId>
     </dependency>
+<!--
     <dependency>
       <groupId>org.opennms.features</groupId>
       <artifactId>opennms-integration-remedy</artifactId>
     </dependency>
+-->
     <dependency>
       <groupId>org.opennms</groupId>
       <artifactId>opennms-reporting</artifactId>
